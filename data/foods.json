@@ -1,0 +1,70 @@
+[{
+	"food":"fries",
+	"foodType":"Appetizer",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":3
+},
+{
+	"food":"tirokauteri",
+	"foodType":"Appetizer",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":2	
+},
+{
+	"food":"tzatziki",
+	"foodType":"Appetizer",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":2
+},
+{
+	"food":"Egg Salad",
+	"foodType":"Salads",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":4
+},
+{
+	"food":"Salad of Sef",
+	"foodType":"Salads",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+	"price":5
+},
+{
+	"food":"Pasta salad",
+	"foodType":"Salads",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":5
+},
+{
+	"food":"Easy Meatloaf",
+	"foodType":"MainDishes",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":8
+},
+{
+	"food":"Spicy Garlic lime chicken",
+	"foodType":"MainDishes",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":9
+},
+{
+	"food":"Chicken pasta",
+	"foodType":"MainDishes",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+	"price":7
+},
+{
+	"food":"Coca cola",
+	"foodType":"Drinks",
+	"price":1
+},
+{
+	"food":"Fanta",
+	"foodType":"Drinks",
+	"price":1	
+},
+{
+	"food":"Orange juice",
+	"foodType":"Drinks",
+	"price":1
+}
+]
